@@ -87,9 +87,6 @@ def adding_matz
           :languages => ["C"]
         }
      }
-     
-    programmer_hash[:grace_hopper]
-
 
     
 end
@@ -135,6 +132,5 @@ def adding_to_dennis
         }
      }
      programmer_hash[:dennis_ritchie][:languages] << "Assembly"
-     programmer_hash
 
 end
